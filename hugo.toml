@@ -1,0 +1,5 @@
+baseURL = 'https://blog.practacemusic.com/'
+languageCode = 'en-us'
+title = 'PractACE Music Blog'
+theme = 'ananke'
+commentoEnable = true
