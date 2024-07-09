@@ -18,3 +18,58 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+.navbar {
+	background-color: black;
+	height: 63px;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 100;
+}
+
+#navbarLinks {
+	list-style-type: none;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	height: 63px;
+	z-index: 100;
+}
+
+#loginbtn {
+	position: fixed;
+	right: 0;
+	top: 0;
+	color: white;
+	padding: 22.3px;
+	background-color: black;
+	margin: 0;
+	text-decoration: none;
+	transition: 0.25s;
+}
+
+#loginbtn:hover {
+	margin: 0;
+	background-color: white;
+	color: black;
+	transition: 0.25s;
+}
+
+#logo {
+	position: fixed;
+	top: 0;
+	left: 0;
+	color: white;
+}
+
+@media (max-width: 850px) {
+	#navbarLinks {
+		width: 100%;
+	}
+
+	#loginbtn {
+		display: none;
+	}
+}

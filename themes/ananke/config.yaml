@@ -3,10 +3,10 @@ module:
     min: "0.84.0"
 
 params:
-  site_logo: "img/smallLogo.png"
-  featured_image: "img/music.jpg"
+  site_logo: "img/practice-room-logo.png"
   show_reading_time: true
+  favicon: "img/favicon.ico"
   ananke_socials:
-  - name: PractACE App
-    url: https://www.practacemusic.com
+  - name: practace
+    url: https://www.practacemusic.com/track
   
