@@ -1,5 +1,5 @@
 baseURL = 'https://blog.practacemusic.com/'
 languageCode = 'en-us'
-title = 'PractACE Music Blog'
+title = 'The Practice Room'
 theme = 'ananke'
 commentoEnable = true

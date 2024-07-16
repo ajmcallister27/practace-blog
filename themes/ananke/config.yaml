@@ -6,6 +6,8 @@ params:
   site_logo: "img/practice-room-logo.png"
   show_reading_time: true
   favicon: "img/favicon.ico"
+  mainSections: 
+    - "post"
   ananke_socials:
   - name: practace
     url: https://www.practacemusic.com/track
