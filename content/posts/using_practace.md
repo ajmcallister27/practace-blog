@@ -2,7 +2,7 @@
 title: 'Using PractACE Music to Ace Your Practicing'
 date: 2024-07-10T10:47:54-07:00
 draft: true
-featured_image: 'img/vinyl.jpg' 
+featured_image: 'img/post_bg/practace.png' 
 ---
 ## What is PractACE?
 
@@ -28,13 +28,14 @@ PractACE has both of these valuable tools built into the application so you don'
 
 ## Goals Checklist
 
-[goal picture]
+<!-- [goal picture] -->
+![goal picture](/img/post_img/goals.png)
 
 You will be a lot more successful in everything if you **have a plan and set goals**. This especially applies to practicing music. The goal feature of PractACE is built similar to a todo-list to help you keep track of what you want to practice in that session. It saves your items after they are created, so you can use the same items in multiple practices. With both a title and description availible, the goals feature helps you remember exactly what you wanted to do in your practice so you are the most effecient. 
 
 ## Timed Practice Sections
 
-[pic of timer]
+![timed sections picture](/img/post_img/time_sections.png)
 
 PractACE has two main practice tracking features. A timer that counts down, and a stopwatch that counts up. The timer breaks your practice into **three sections:**
 
@@ -46,13 +47,13 @@ Each section is fully customizable to include the songs or exercises you want to
 
 ## Community Feature
 
-[pic of "the wall"]
+![community wall picture](/img/post_img/wall.png)
 
 The community feature lets you **share your practice sessions** with your friends, **recieve encores** (similar to likes), and **give comments**. You can customize each practice session to have a custom title, and add notes of what you worked on.
 
 ## AI Practice Verification
 
-[pic of verification screen]
+![ai picture](/img/post_img/ml.png)
 
 A lot of practice time is spent setting up, getting a drink, pulling out music, or other procrastination. We hate to admit it, but sometimes we aren't always practicing as long as we think we are. 
 
