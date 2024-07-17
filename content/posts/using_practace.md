@@ -57,4 +57,7 @@ The community feature lets you **share your practice sessions** with your friend
 
 A lot of practice time is spent setting up, getting a drink, pulling out music, or other procrastination. We hate to admit it, but sometimes we aren't always practicing as long as we think we are. 
 
-Using the power of Machine Learning (ML) and Artificial Intelligence (AI), PractACE tells you how long you were **actually playing**. It accomplishes this by recording your practice session (you can opt out if you want) and 
+Using the power of Machine Learning (ML) and Artificial Intelligence (AI), PractACE tells you how long you were **actually playing**. It accomplishes this by recording your practice session (you can opt out if you want) and passing it through a model trained on thousands of hours of audio recordings to determine how long you are actually playing.
+
+
+### [So, what are you waiting for! Try PractACE today to *ace* your musical practices!](https://www.practacemusic.com)
