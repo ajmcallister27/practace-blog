@@ -1,8 +1,10 @@
 ---
 title: 'Effective Jazz Practice: Insights from Dave Pollack'
 date: 2024-07-16T20:07:59-07:00
-draft: true
-featured_image: 'img/post_bg/dave_pollack.jpg' 
+draft: false
+featured_image: 'img/post_bg/dave_pollack.jpg'
+tags: [jazz, practice, music, Dave Pollack, improvisation, technique]
+description: "Jazz musician Dave Pollack shares expert advice on structuring effective practice sessions, focusing on warm-ups, technique, transcription, and improvisation. Perfect for musicians with both short and long practice times."
 ---
 
 [Original YouTube Video](https://youtu.be/UuFr_bpz7H0?si=JhLGHEWgAZvMFuwh&t=820)

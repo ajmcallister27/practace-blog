@@ -6,8 +6,15 @@
     <description>Recent content in Posts on The Practice Room</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2024 20:07:59 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 14:17:44 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practicing Music Without An Instrument</title>
+      <link>http://localhost:1313/posts/practicing_without_an_instrument/</link>
+      <pubDate>Wed, 17 Jul 2024 14:17:44 -0700</pubDate>
+      <guid>http://localhost:1313/posts/practicing_without_an_instrument/</guid>
+      <description>Music is loud.&#xA;Instruments are bulky.&#xA;Traveling with instruments is difficult.&#xA;These are all reasons why musicians like you and me don&amp;rsquo;t practice when they&amp;rsquo;re traveling, late at night, or without access to their instrument. But, the best musicians in the world are becoming better, even when they don&amp;rsquo;t have their instrument at their fingertips. In this article, we will go through 6 different methods on how to improve as a musician without your instrument.</description>
+    </item>
     <item>
       <title>Effective Jazz Practice: Insights from Dave Pollack</title>
       <link>http://localhost:1313/posts/pollack_advice/</link>
@@ -21,13 +28,6 @@
       <pubDate>Wed, 10 Jul 2024 10:47:54 -0700</pubDate>
       <guid>http://localhost:1313/posts/using_practace/</guid>
       <description>What is PractACE? PractACE Music is an application that assists users in planning, tracking, and sharing their practice sessions. It includes multiple features, including:&#xA;Metronome and tuner Goals checklist Timed practice sections Community feature AI practice verification Throughout this article, we will go through what each of these features are, why they are important for you, and how they will assist you in your practice sessions.&#xA;Metronome and Tuner [met and tuner pic]</description>
-    </item>
-    <item>
-      <title>Welcome to The Practice Room: Your Ultimate Guide to Effective Music Practice</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Thu, 20 Jun 2024 10:47:54 -0700</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description>Introduction Welcome to The Practice Room blog! We&amp;rsquo;re excited to launch this platform to support musicians of all levels in their journey to master their instruments. Whether you&amp;rsquo;re a beginner or an advanced player, our blog is designed to provide you with practical tips, insightful strategies, and inspiring stories to enhance your practice sessions.&#xA;What is PractACE Music? PractACE Music is dedicated to helping musicians improve their skills through effective practice.</description>
     </item>
   </channel>
 </rss>
