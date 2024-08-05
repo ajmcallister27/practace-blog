@@ -33,10 +33,15 @@ NoteNames is a tool built by Brian Wis to help train musicians to recognize the 
  5. **Flat Note Identification** This level covers flat notes. It gives you a key signature of all flats and you need to identify which note is shown on the screen.
  6. **Sharp Note Identification** This level covers sharp notes. It gives you a key signature of all sharps and you need to identify which note is shown on the screen.
  7. **Sharp and Flat Note Identification** This level covers both sharp notes and flat nights. This shows a random key signature and you are tasked in identifying which note is shown on the screen.
- 8. **
+ 8. **Flat Key Signature Identification** This level tests your skills on identifying key signatures full of flats.
+ 9. **Sharp Key Signature Identification** This level tests your skills on identifying key signatures full of sharps.
+ 10. **Flat and Sharp Key Signature Identification** This level tests your skills on identifying all key signatures.
+ 11. **Scale Spelling** This level gives you a key signature and tasks you with spelling each note of the scale in order.
+ 12. **Key Signature Spelling** This level gives you a key (example: "Bb Major") and tasks you with spelling each key signature note in order (for the example: "Bb, Eb").
 
 ### Benefits
 
+The biggest benefits that come from NoteNames is the ability to identify notes, keys, and scales more quickly so that you can spend more time playing the music instead of trying to figure out what to play.
 
 ### Pro Tips
 
@@ -45,88 +50,49 @@ NoteNames is a tool built by Brian Wis to help train musicians to recognize the 
  - Stay calm
  - Don't quit
 
-## Section 2: Rhythm Tapper
+
+## RhythmTapper TURBO
+
+![rhythm tapper logo](/img/post_img/RTlogo.webp)
+
+### What is Rhythm Tapper?
 
 
-## Description: What is Rhythm Tapper?
+### Features: Key features of Rhythm Tapper.
 
 
-## Features: Key features of Rhythm Tapper.
+### Benefits:
 
 
-## Interactive rhythm exercises.
+### Pro Tips:
 
 
-## Varied difficulty levels.
 
 
-## Real-time feedback.
+## SightReadingFactory
 
 
-## Benefits: Improving rhythm accuracy and timing.
+### What is SightReadingFactory?
 
 
-## Tips for Use: Effective strategies for using Rhythm Tapper in practice.
+### Features:
 
 
-## Section 3: SightReadingFactory
+
+### Benefits:
 
 
-## Description: What is SightReadingFactory?
-
-
-## Features: Highlighting the main features.
-
-
-## Customizable sightreading exercises.
-
-
-## Extensive library of music genres and styles.
-
-
-## Difficulty adjustment options.
-
-
-## Benefits: Enhancing overall sightreading skills.
-
-
-## Tips for Use: How to integrate SightReadingFactory into your practice routine.
+## Pro Tips:
 
 
 ## Section 4: Integrating the Tools
 
-
-## Step-by-Step Guide: How to combine NoteNames, Rhythm Tapper, and SightReadingFactory for a comprehensive practice session.
-
-
-## Step 1: Start with NoteNames for note identification.
+ - Step 1: Start with NoteNames for note identification.
+ - Step 2: Move to Rhythm Tapper for rhythm practice.
+ - Step 3: Use SightReadingFactory for full sightreading practice.
 
 
-## Step 2: Move to Rhythm Tapper for rhythm practice.
-
-
-## Step 3: Use SightReadingFactory for full sightreading practice.
-
-
-## Sample Practice Routine: Example of a daily practice routine using all three tools.
-
-
-## Section 5: Success Stories
-
-
-## Personal Anecdote: Share a personal story or testimonial about improving sightreading with these tools.
-
-
-## Reader Stories: Encourage readers to share their own experiences and success stories.
+### Sample Practice Routine: Example of a daily practice routine using all three tools.
 
 
 ## Conclusion
-
-
-## Recap: Summarize the key points covered in the post.
-
-
-## Encouragement: Motivate readers to start using these tools and improve their sightreading skills.
-
-
-## Call to Action: Invite readers to try the tools, share their experiences, and follow the blog for more tips and insights.
