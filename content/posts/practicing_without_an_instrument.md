@@ -4,6 +4,7 @@ date: 2024-07-17T14:17:44-07:00
 tags: [music, practice, musicianship, mental practice, ear training, rhythm]
 featured_image: "img/post_bg/practice_without_instrument.webp"
 description: "Discover six effective methods to improve your musicianship even when you don't have your instrument at hand. From mental practice to technological aids, these tips will help you stay sharp and continue growing as a musician."
+draft: false
 ---
 
 **Music is loud.**

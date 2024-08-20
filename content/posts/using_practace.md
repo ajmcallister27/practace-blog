@@ -1,7 +1,7 @@
 ---
 title: 'Using PractACE Music to Ace Your Practicing'
 date: 2024-07-10T10:47:54-07:00
-draft: true
+draft: false
 featured_image: 'img/post_bg/practace.png' 
 ---
 ## What is PractACE?
@@ -18,7 +18,9 @@ Throughout this article, we will go through what each of these features are, why
 
 ## Metronome and Tuner
 
-[met and tuner pic]
+![met and tuner picture](/img/post_img/met_tuner.jpg)
+
+> **Note:** This feature is still in development, so stay tuned to when it will be available for everyone!
 
 Both a metronome and a tuner are vital tools to a good practice session. A metronome assists in keeping time, and teaching rhythm. It is essential in learning how to play in time and to play together when you start playing and rehearsing with other people. It is used at all points in a practice session while playing all pieces. **A metronome makes you a better musician**, whether you like it or not.
 

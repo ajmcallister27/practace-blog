@@ -5,6 +5,7 @@ module:
 params:
   site_logo: "img/practice-room-logo.png"
   show_reading_time: true
+  
   favicon: "img/favicon.ico"
   mainSections: 
     - "post"

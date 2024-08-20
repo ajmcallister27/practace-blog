@@ -4,6 +4,7 @@ date: 2024-07-18T10:00:00-07:00
 tags: [percussion, practice routine, music, drumming, technique]
 featured_image: 'img/post_bg/percussion.jpg'
 description: "EJ Barasona shares a comprehensive guide on building an effective percussion practice routine, covering warm-ups, rudiments, genre-specific practice, and more."
+draft: false
 ---
 
 *By EJ Barasona*
