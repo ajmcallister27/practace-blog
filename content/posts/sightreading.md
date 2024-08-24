@@ -5,7 +5,7 @@ date: 2024-07-30T21:03:25-07:00
 tags: []
 featured_image: ""
 description: ""
-draft: false
+draft: true
 ---
 
 Many musicians begin their journey as a part of their school band where they have time to practice before performing pieces, or they're a member of a band that writes it's own music. But, there will be a time when you don't have the luxury of being able to practice a piece for weeks before you perform it.
