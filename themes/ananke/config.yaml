@@ -5,7 +5,8 @@ module:
 params:
   site_logo: "img/practice-room-logo.png"
   show_reading_time: true
-  
+  googleAnalytics: "G-96S6RZ59C2"
+
   favicon: "img/favicon.ico"
   mainSections: 
     - "post"
