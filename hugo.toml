@@ -1,4 +1,4 @@
-baseURL = 'https://blog.practacemusic.com/'
+baseURL = 'https://ajmcallister27.github.io/practace-blog/'
 languageCode = 'en-us'
 title = 'The Practice Room'
 theme = 'ananke'
